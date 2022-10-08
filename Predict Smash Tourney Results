@@ -1,0 +1,27 @@
+Smash Tourney Results Prediction with Ai
+
+Saturday, September 24, 2022
+12:15 PM
+
+Data I will most likely need:
+	• Player's seeds
+	• Player's win rates
+	• Player's character win rates
+	• Player's stage win rates
+	• Player's vs player win rates
+	• Maybe tourney size
+	• Maybe tourney times
+	• Maybe tourney seasons
+	• Maybe player's tweets/posts and looking for their salt factor
+	• Player's team/org
+	• Player's rate to 2-0/3-0/0-2/0-3/2-1/1-2/3-1/1-3/3-2/2-3 during particular sets in bracket
+	• Player's average set time for best of 3's and 5's
+	• Player's win rate for short matches and long matches
+	• Player's win rate when on stream and off stream
+	• Player's win rate depending on occupancy size
+	• Player's win rate based on geographical location
+	• Player's win rate based on single vs double elim bracket
+	• Player's win rate based on match type (singles/doubles/squad-strike/crews/etc.)
+	• Player's win rate based on video game (64/melee/brawl/pm/sm4sh/ultimate)
+	• Player's win rate based on temperature of venue/geographical location
+        • Player's number of times character used in brackets total
